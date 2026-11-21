@@ -1,0 +1,3 @@
+// Keep in sync with server/src/constants.js
+export const STATUSES = ['New', 'Contacted', 'Qualified', 'Lost'];
+export const SOURCES = ['Website', 'Referral', 'LinkedIn', 'Cold call', 'Event', 'Other'];
