@@ -3,7 +3,7 @@
 A small full-stack app for a sales user to capture and track leads.
 Built for the Meru Technosoft Full Stack Developer screening assignment.
 
-**Live demo:** _add your link here if you deploy_
+**Live demo:** https://lead-manager-cyan.vercel.app
 
 ## Features
 
